@@ -1,5 +1,6 @@
 /*
 ¿Que va a mostrar por el terminal cuando hagamos node ex2.js? ¿Por qué?
+Cuack! porque 3>2
 */
 
 let numero = 3;

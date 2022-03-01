@@ -7,6 +7,7 @@
  */
 
 let nombre = "Alex";
+nombre = "Dédalo"
 
 /**NO TOCAR A PARTIR DE AQUÍ */
 if (nombre != "Alex") {

@@ -10,6 +10,7 @@ https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Expressions_and_Opera
 
 let usuario = "pepe";
 let password = "1995";
+usuario = "pepa"
 
 /** NO TOCAR A PARTIR DE AQUÍ  */
 if (usuario == "pepa" && password == "1995") {
